@@ -1,6 +1,6 @@
 
 const Leave = require("../models/Leave");
-const Employee = require("../models/Employee");
+const Employee = require("../models/employee");
 
 // GET all leave requests
 const getLeaves = async (req, res) => {
