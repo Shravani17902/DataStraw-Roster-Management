@@ -1,6 +1,6 @@
 const Roster = require("../models/Roster");
 const Assignment = require("../models/Assignment");
-const Employee = require("../models/Employee");
+const Employee = require("../models/employee");
 const Leave = require("../models/Leave");
 const Holiday = require("../models/Holiday");
 
