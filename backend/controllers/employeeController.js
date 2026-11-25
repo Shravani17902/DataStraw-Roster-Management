@@ -1,5 +1,5 @@
 
-const Employee = require("../models/Employee");
+const Employee = require("../models/employee");
 
 // GET all employees
 const getEmployees = async (req, res) => {
